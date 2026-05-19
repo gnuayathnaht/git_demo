@@ -1,2 +1,4 @@
 This is a feature.
 conflict testing
+This is another conflict message.
+This is testing next round.
