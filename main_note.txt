@@ -1,2 +1,3 @@
 This is a main branch note.
 I am learning git.
+Updated read me status.
