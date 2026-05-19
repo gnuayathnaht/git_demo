@@ -1,2 +1,3 @@
 This is a feature.
 This is another conflict message.
+This is testing next round.
