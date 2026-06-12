@@ -1,3 +1,5 @@
 This is a feature.
 This is another conflict message.
 This is testing next round.
+
+Implemnted the new feature one. This is very importance feature.
